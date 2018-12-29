@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MCQProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="basic"><u><b>Basic Level</b></u></string>
+    <string name="intermediate"><u><b>Intermediate Level</b></u></string>
+    <string name="tough"><u><b>Tough Level</b></u></string>
+    <string name="description_basic">Very simple health related questions are categorized in basic option.</string>
+    <string name="description_intermediate">Advanced health related questions are categorized in intermediate option.</string>
+    <string name="description_tough">Complex health related questions are categorized in tough option.</string>
+</resources>
